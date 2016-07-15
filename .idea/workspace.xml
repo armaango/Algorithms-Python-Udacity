@@ -58,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary Search.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary Search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary Search.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
               <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recusrion for Fibbonacci.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recusrion for Fibbonacci.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,6 +98,7 @@
         <option value="$PROJECT_DIR$/Stack by LinkedList.py" />
         <option value="$PROJECT_DIR$/Queue using deque.py" />
         <option value="$PROJECT_DIR$/Binary Search.py" />
+        <option value="$PROJECT_DIR$/Recusrion for Fibbonacci.py" />
       </list>
     </option>
   </component>
@@ -150,7 +161,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Stack by LinkedList">
+  <component name="RunManager" selected="Python.Recusrion for Fibbonacci">
     <configuration default="false" name="Stack by LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,6 +175,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms- Udacity -Pyhton" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack by LinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Recusrion for Fibbonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms- Udacity -Pyhton" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recusrion for Fibbonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -302,12 +330,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.Stack by LinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Recusrion for Fibbonacci" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.Stack by LinkedList" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.Recusrion for Fibbonacci" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Stack by LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +425,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recusrion for Fibbonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
