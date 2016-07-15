@@ -48,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue using deque.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Queue using deque.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Queue using deque.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
               <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary Search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/LinkedList.py" />
         <option value="$PROJECT_DIR$/Stack by LinkedList.py" />
         <option value="$PROJECT_DIR$/Queue using deque.py" />
+        <option value="$PROJECT_DIR$/Binary Search.py" />
       </list>
     </option>
   </component>
@@ -376,6 +387,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding />
         </state>
       </provider>
